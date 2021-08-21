@@ -1,0 +1,1 @@
+export const SPLASH_SCREEN_PATH = 'SPLASH_SCREEN';
